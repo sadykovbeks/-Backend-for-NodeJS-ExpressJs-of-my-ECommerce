@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "email": "bermet@gmail.com",
+    "name": "bermet",
+    "password": "12345678",
+    "age": 21
+  },
+  {
+    "id": 2,
+    "email": "adil@gmail.com",
+    "name": "adil",
+    "password": "87654321",
+    "age": 22
+  },
+  {
+    "id": 3,
+    "email": "dastan@gmail.com",
+    "name": "dastan",
+    "password": "11111111",
+    "age": 23
+  },
+  {
+    "id": 4,
+    "email": "bekbolot@gmail.com",
+    "name": "bekbolot",
+    "password": "22222222",
+    "age": 24
+  },
+  {
+    "id": 5,
+    "email": "sanjar@gmail.com",
+    "name": "bekbolot",
+    "password": "77777777",
+    "age": 25
+  },
+  {
+    "id": 6,
+    "email": "damien@gmail.com",
+    "name": "damien",
+    "password": "0000000",
+    "age": 26
+  },
+  {
+    "id": 7,
+    "email": "aikanysh@gmail.com",
+    "name": "aikanysh",
+    "password": "qwertyuiop",
+    "age": 27
+  },
+  {
+    "id": 8,
+    "email": "bermet@gmail.kg",
+    "name": "bermet",
+    "password": "asdfghjkl",
+    "age": 28
+  },
+  {
+    "id": 9,
+    "email": "kushbak@gmail.com",
+    "name": "kushbak",
+    "password": "qqqqqqq",
+    "age": 56
+  }
+]

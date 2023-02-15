@@ -1,0 +1,8 @@
+{
+  name: 'saxsdfvgfdf',
+  email: 'chynbjhmhjk3232hgyz123@gmail.com',
+  password: '$2b$10$SiXtPs89K2qKiw8fBpxpxeG61ZiZ/JekjQwPEeLv5uyZk.FDwCHk2',
+  age: 23,
+  _id: new ObjectId("63c2906f3e10fde1ebd102aa"),
+  __v: 0
+}
